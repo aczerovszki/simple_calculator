@@ -1,0 +1,14 @@
+.result {
+    height: 60px;
+    background-color: rgba(44, 44, 44, 0.44);  
+    backdrop-filter: blur(10px);
+    width: 100%;
+  }
+  
+  .result p {
+    font-size: 40px;
+    margin: 0px;
+    padding: 0 .2em;
+    text-align: right;
+  }
+  
